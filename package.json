@@ -1,6 +1,6 @@
 {
   "name": "pi-knock",
-  "version": "0.1.28",
+  "version": "0.1.29",
   "description": "Remote notifications for the Pi coding agent \u2014 Pushover, ntfy, and webhooks when tasks finish or need your input.",
   "main": "src/index.ts",
   "scripts": {
